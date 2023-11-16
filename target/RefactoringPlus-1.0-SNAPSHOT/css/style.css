@@ -1,0 +1,145 @@
+
+.normalbutton{
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 50%; /* Establece un radio de borde del 50% para hacerlo redondo */
+    border: none;
+
+}
+
+.lessbutton{
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 50%; /* Establece un radio de borde del 50% para hacerlo redondo */
+    border: none;
+}
+
+label{
+    color: #000;
+    font-family: Andale Mono, monospace;
+}
+
+input{
+    font-family: Andale Mono, monospace;
+}
+
+button{
+    font-family: Andale Mono, monospace;
+}
+
+.centerdiv{
+    align-items: center;
+    margin-left: 32%;
+}
+
+.centermargin{
+    margin-left: 22%;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Asegura que ocupe toda la altura de la ventana */
+}
+
+.marginleftright{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.margin_form_modal{
+    margin: 25px;
+}
+
+.center_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+
+body {
+    background: linear-gradient(to bottom, #331b60, #83d9d9); /* Gradiente vertical de azul a rojo */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    font-family: Arial, sans-serif; /* Establece una fuente de texto predeterminada */
+    color: #fff; /* Color de texto predeterminado */
+}
+
+
+.gradient {
+    background: linear-gradient(to bottom, #331b60, #83d9d9); /* Gradiente vertical de azul a rojo */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    font-family: Arial, sans-serif; /* Establece una fuente de texto predeterminada */
+    color: #fff; /* Color de texto predeterminado */
+}
+
+
+.gradient1 {
+    background: linear-gradient(to bottom, #331b60, #83d9d9); /* Gradiente vertical de azul a rojo */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    font-family: Arial, sans-serif; /* Establece una fuente de texto predeterminada */
+    color: #fff; /* Color de texto predeterminado */
+}
+
+.gradient2 {
+    background: linear-gradient(to bottom, #8b1d71, #83d9d9); /* Gradiente vertical de azul a rojo */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    font-family: Arial, sans-serif; /* Establece una fuente de texto predeterminada */
+    color: #fff; /* Color de texto predeterminado */
+}
+
+
+
+.gradient3 {
+    background: linear-gradient(to bottom, #2ba3c8, #83d9d9); /* Gradiente vertical de azul a rojo */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    font-family: Arial, sans-serif; /* Establece una fuente de texto predeterminada */
+    color: #fff; /* Color de texto predeterminado */
+}
+
+
+.gradient4 {
+    background: linear-gradient(to bottom, #2bcac8, #83d9d9); /* Gradiente vertical de azul a rojo */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    font-family: Arial, sans-serif; /* Establece una fuente de texto predeterminada */
+    color: #fff; /* Color de texto predeterminado */
+}
+
+
+.gradient5 {
+    background: linear-gradient(to bottom, #83d9d9, #83d9d9); /* Gradiente vertical de azul a rojo */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    font-family: Arial, sans-serif; /* Establece una fuente de texto predeterminada */
+    color: #fff; /* Color de texto predeterminado */
+}
+
+
+.gradient6 {
+    background: linear-gradient(to bottom, #78d8a3, #83d9d9); /* Gradiente vertical de azul a rojo */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    font-family: Arial, sans-serif; /* Establece una fuente de texto predeterminada */
+    color: #fff; /* Color de texto predeterminado */
+}
+
+.gradient7 {
+    background: linear-gradient(to bottom, #e3e2a5, #83d9d9); /* Gradiente vertical de azul a rojo */
+    margin: 0; /* Elimina los márgenes predeterminados del cuerpo */
+    padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+    font-family: Arial, sans-serif; /* Establece una fuente de texto predeterminada */
+    color: #fff; /* Color de texto predeterminado */
+}
+
